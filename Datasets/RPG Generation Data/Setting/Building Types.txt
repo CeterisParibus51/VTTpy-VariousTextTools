@@ -1,0 +1,29 @@
+Hut
+Bridge
+Cabin
+Tavern
+Inn
+Armory
+Castle
+Fortress
+Church
+Shop
+House
+Townhouse
+Manor
+Mansion
+Office
+Temple
+Towns
+Cities
+Temples
+Dungeon
+Cave Entrance
+Mine Entrance
+Tower
+Ruins
+Road
+Shrine
+Dome
+Factory
+Sewer

@@ -1,0 +1,8 @@
+Legendary
+Mythic
+Hero
+Adept
+Champion
+Advanced
+Novice
+Starter

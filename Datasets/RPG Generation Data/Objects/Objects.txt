@@ -1,0 +1,7 @@
+Wooden Barrel
+Metal Drum
+Treasure Chest
+Wall Torch
+Altar
+Chair
+Table

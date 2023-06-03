@@ -1,0 +1,63 @@
+Farmer
+Doctor
+Scientist
+Inn Keeper
+Worker
+Miner
+Wood Worker
+Metal Worker
+Blacksmith
+Stone Worker
+Logger
+Soldier
+Guard
+Vagrant
+Bum
+Rancher
+Herbalist
+Apothecary
+Chemist
+Mathmatician
+Slayer
+Hunter
+Treasure Hunter
+Bounty Hunter
+Singer
+Juggler
+Bard
+Musician
+Seamstress
+Cobbler
+Taylor
+Carpenter
+Archer
+Officer
+Firefighter
+Marshall
+Medic
+Nurse
+Writer
+Novelist
+Fighter
+Thief
+Bandit
+Marauder
+Beggar
+Pirate
+Raider
+Barbarian
+Painter
+Scribe
+Advisor
+Salesman
+Saleswoman
+Weaver
+Engineer
+Technician
+Cage Fighter
+Pit Fighter
+Athlete
+Service Worker
+Financier
+Banker
+Investor

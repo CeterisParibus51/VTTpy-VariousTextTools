@@ -1,0 +1,9 @@
+Tin
+Copper
+Lead
+Gold
+Silver
+Iron
+Titanium
+Tungsten
+Platinum

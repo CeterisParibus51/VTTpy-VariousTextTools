@@ -1,0 +1,9 @@
+Fiction
+Nonfiction
+Mystery
+Science Fiction
+Fantasy
+Horror
+Exploration
+Resource Management
+Romance

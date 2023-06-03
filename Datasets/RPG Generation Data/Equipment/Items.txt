@@ -1,0 +1,38 @@
+Bomb
+Fishing Pole
+Bug Net
+Torch
+Challace
+Fan
+Stone
+Watch
+Bucket
+Potion Bottles
+Specimen Jars
+Cooking Pot
+Anvil
+Mirror
+Lute
+Seed
+Alembic
+Hourglass
+Jar
+Mortar & Pestle
+Toolbox
+Magnifying Glass
+Frying Pan
+Arrow
+Rock
+Dart
+Key
+Candle
+Bell
+Map
+Sigil
+Orb
+Scroll
+Book
+Tablet
+Crystal
+Bottle
+Coin

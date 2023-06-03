@@ -1,0 +1,60 @@
+Axe
+Hammer
+Staff
+Rod
+Scepter
+Bow
+Knife
+Dagger
+Sword
+Short Sword
+Broad Sword
+Mace
+Club
+Scythe
+Spear
+Pole Axe
+Mallet
+Long Sword
+Katana
+Wakasashi
+Tanto
+Boomerang
+Musket
+Chakram
+Slingshot
+Wrench
+Crowbar
+Pick
+Sickel
+Shovel
+Pitchfork
+Revolver
+Pistol
+Sub Machinegun
+Machinegun
+Chaingun
+Pump Shotgun
+Double Barrel Shotgun
+Rifle
+Assault Rifle
+Railgun
+Grenade Launcher
+Rocket Launcher
+Bow
+Crossbow
+Blowdart Gun
+Dart Rifle
+Freeze Ray
+Laser
+Plasma Pistol
+Plasma Rifle
+Lightning Rifle
+Flamethrower
+Heavy Rifle
+Hand Cannon
+Flare Gun
+Heavy Machinegun
+Throwing Knife
+Throwing Axe
+Grenade

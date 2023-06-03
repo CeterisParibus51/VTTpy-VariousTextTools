@@ -1,0 +1,10 @@
+Stun
+Paralysis
+Poison
+Unconcious
+Sickness
+Frailty
+Sleep
+Shock
+Frozen
+Burnt

@@ -1,0 +1,18 @@
+Cavern
+Ice Cavern
+Fire Cavern
+Forest
+Swamp
+Mountain
+River
+Ocean
+Desert
+Plain
+Badlands
+Tundra
+Snow Forest
+Volcano
+Mines
+Island
+Jungle
+Rain Forest

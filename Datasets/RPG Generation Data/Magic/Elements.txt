@@ -1,0 +1,16 @@
+Earth
+Fire
+Wind
+Water
+Stone
+Lightning
+Sound
+Gravity
+Time
+Plant
+Beast
+Void
+Aether
+Spirit
+Martial
+Psychic

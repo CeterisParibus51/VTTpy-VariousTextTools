@@ -1,0 +1,9 @@
+Human
+Elf
+Dark Elf
+High Elf
+Dwarf
+Halfling
+Orc
+Centaur
+Minotaur
