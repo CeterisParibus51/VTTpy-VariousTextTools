@@ -1,0 +1,9 @@
+this is a test.
+line one should have 15 characters.
+
+line three should have 0 or 1 characters
+# should have a count of 1
+
+ABCABCABC
+
+the quick grey fox jumps over the lazy brown dog.

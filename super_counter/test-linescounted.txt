@@ -1,0 +1,31 @@
+Total line count: 9
+Shortest word length per line:
+1
+2
+0
+1
+1
+0
+9
+0
+3
+Longest word length per line:
+5
+11
+0
+10
+6
+0
+9
+0
+5
+Character count per line:
+line1:15
+line2:35
+line3:0
+line4:40
+line5:26
+line6:0
+line7:9
+line8:0
+line9:49
